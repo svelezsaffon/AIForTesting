@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="santiago-VirtualBox" name="TestDriver.TestDriverRuns" tests="1" failures="0" timestamp="14 Dec 2017 20:03:19 GMT" time="18.394" errors="0">
+  <testcase name="testDriverIsRunning" time="18.38" classname="TestDriver.TestDriverRuns"/>
+</testsuite>
